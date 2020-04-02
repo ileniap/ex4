@@ -1,0 +1,11 @@
+#goals
+float32 qi
+float32 qd
+float32 wmax
+float32 dtime
+---
+#results
+float32 qf
+---
+#feedback
+float32 current_p
