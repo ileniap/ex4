@@ -31,8 +31,6 @@ Nel caso si volesse percorrere questa alternativa è utile (o necessario) ricorr
 
 E' possibile introdurre anche altri controlli per migliorare il codice, quali generazioni di messaggi di errore o altro.
 
-Ilenia Perrella
-
 
 
 #ex4
